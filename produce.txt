@@ -1,6 +1,9 @@
 cellphone
 computer
 printer
-mouseaa
-keyboardaa
-televisionaa
+mouse
+keyboard
+television
+mouse
+keyboarda
+televisiona

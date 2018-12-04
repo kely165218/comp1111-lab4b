@@ -1,3 +1,6 @@
+bean
+icecream
+kitcup
 icecream
 chips
 kitchippp
